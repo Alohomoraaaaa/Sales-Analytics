@@ -125,5 +125,4 @@ The report provides a single place to explore sales performance across different
 
 ## Project Summary
 
-This project demonstrates how Microsoft Fabric can bring data ingestion, transformation, storage, modeling, and reporting together in a single analytics platform.
-The complete flow from raw sales data to the final Power BI dashboard provides a practical example of building an end-to-end analytics solution using Fabric.
+This project was a hands-on learning experience with **Microsoft Fabric**, covering the complete analytics workflow from data ingestion and transformation to data modeling and Power BI reporting. It helped me understand how Fabric brings data pipelines, Lakehouse, Warehouse, semantic models, and reporting together in a single analytics platform. The project was developed using the **Microsoft Fabric free trial** as a practical way to explore and work with the platform.
